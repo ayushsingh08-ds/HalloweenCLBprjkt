@@ -1,5 +1,19 @@
-# DSUHalloween2024 WEB WIZARD
+    Hope ya have the heart to live
 
-Made in collab with my friends  <a style="color: blue" href="https://github.com/ArjiJethin" target=_blank>"Arji Jethin"</a> & <a style="color: red" href="https://github.com/ayushsingh08-dsa" target=_blank>"ASH"</a>. We made this project for an event in our University called WEB WIZARD which is making a website with Halloween theme and there were certain criteria in web design and I'm glad that we reached all of them with ease. With Arji's and ASH's contributions we made this project succesful
+Hehehe :)
+nuh uh...
 
-Visit the website here: <a href="https://alurubalakarthikeya.github.io/DSUHalloween2024/" target="_blank" title="website link">Click here</a> 
+<section class="party section" id="party">
+                <div class="party__container container grid">
+                    <div class="party__data">
+                        <h2 class="section__title">Halloween <br> party 31 October</h2>
+                        <p class="party__description">Organize a great Halloween party and enjoy the creepiest night of terror with all your friends!</p>
+                        <a href="#" class="button">Start the Party</a>
+                    </div>
+                    <div class="party__images">
+                        <img src="img/party-cauldron.png" alt="party image" class="party__img">
+                        <img src="img/stars.png" alt="party image" class="party__star-1">
+                        <img src="img/stars.png" alt="party image" class="party__star-2">
+                    </div>
+                </div>
+            </section>
